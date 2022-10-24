@@ -1,4 +1,4 @@
-module github.com/aiwantaozi/golang-mod-batch-projects/gogs
+module github.com/seal-io/golang-mod-batch-projects/gogs
 
 require gogs.io/gogs v0.12.0
 

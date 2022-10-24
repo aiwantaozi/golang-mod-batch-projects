@@ -1,4 +1,4 @@
-module github.com/aiwantaozi/golang-mod-batch-projects/shoutrrr-replace
+module github.com/seal-io/golang-mod-batch-projects/shoutrrr-replace
 
 replace github.com/containrrr/shoutrrr => github.com/aiwantaozi/golang-mod-shoutrrr v0.0.0-20221018100749-554d7ea4da5c
 

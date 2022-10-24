@@ -1,4 +1,4 @@
-module github.com/aiwantaozi/golang-mod-batch-projects/prometheus-server
+module github.com/seal-io/golang-mod-batch-projects/prometheus-server
 
 require github.com/prometheus/client_golang v1.11.0
 
