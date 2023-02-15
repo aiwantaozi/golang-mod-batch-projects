@@ -1,6 +1,6 @@
 module github.com/seal-io/golang-mod-batch-projects/prometheus-server
 
-require github.com/prometheus/client_golang v1.11.0
+require github.com/prometheus/client_golang v1.11.1
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
