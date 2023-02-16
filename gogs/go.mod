@@ -69,7 +69,7 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/t-tiger/gorm-bulk-insert v1.3.0 // indirect
-	github.com/unknwon/cae v1.0.0 // indirect
+	github.com/unknwon/cae v1.0.1 // indirect
 	github.com/unknwon/com v1.0.1 // indirect
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20170405233947-45e5d631308e // indirect
