@@ -1,6 +1,6 @@
 module github.com/seal-io/golang-mod-batch-projects/gogs
 
-require gogs.io/gogs v0.12.0
+require gogs.io/gogs v0.12.11
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.0 // indirect
@@ -26,7 +26,7 @@ require (
 	github.com/go-sql-driver/mysql v1.5.0 // indirect
 	github.com/gogs/chardet v0.0.0-20150115103509-2404f7772561 // indirect
 	github.com/gogs/cron v0.0.0-20171120032916-9f6c956d3e14 // indirect
-	github.com/gogs/git-module v1.1.2 // indirect
+	github.com/gogs/git-module v1.8.1 // indirect
 	github.com/gogs/go-gogs-client v0.0.0-20200128182646-c69cb7680fd4 // indirect
 	github.com/gogs/go-libravatar v0.0.0-20191106065024-33a75213d0a0 // indirect
 	github.com/gogs/minwinsvc v0.0.0-20170301035411-95be6356811a // indirect
@@ -39,7 +39,7 @@ require (
 	github.com/jaytaylor/html2text v0.0.0-20190408195923-01ec452cbe43 // indirect
 	github.com/jinzhu/gorm v1.9.12 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/json-iterator/go v1.1.10 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.8.6 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/lib/pq v1.3.0 // indirect
@@ -51,7 +51,7 @@ require (
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.4 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/msteinert/pam v0.0.0-20190215180659-f29b9f28d6f9 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/niklasfasching/go-org v0.1.9 // indirect
@@ -69,16 +69,16 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/t-tiger/gorm-bulk-insert v1.3.0 // indirect
-	github.com/unknwon/cae v1.0.0 // indirect
+	github.com/unknwon/cae v1.0.2 // indirect
 	github.com/unknwon/com v1.0.1 // indirect
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20170405233947-45e5d631308e // indirect
 	github.com/urfave/cli v1.22.4 // indirect
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975 // indirect
+	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29 // indirect
 	golang.org/x/mod v0.2.0 // indirect
-	golang.org/x/net v0.0.0-20191014212845-da9a3fd4c582 // indirect
-	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f // indirect
-	golang.org/x/text v0.3.3 // indirect
+	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
+	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
+	golang.org/x/text v0.3.6 // indirect
 	google.golang.org/protobuf v1.21.0 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
